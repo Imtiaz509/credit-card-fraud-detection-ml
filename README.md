@@ -63,7 +63,7 @@ Due to class imbalance, the following metrics were used:
 ## 📄 Research Paper
 
 📘 Published version available here:  
-👉 [Zenodo Link Here]
+👉 [https://www.researchgate.net/publication/404418612_Credit_Card_Fraud_Detection_A_Comparative_Study_of_Anomaly_Detection_and_Supervised_Learning_under_Extreme_Class_Imbalance]
 
 ---
 
